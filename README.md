@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hamidullah Ahmadi</h1>
 <h3 align="center">A passionate software developer from Afghanistan</h3>
 
-<image align="right" alt="Hamid" width = "400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif"
+<img align="right" alt="Hamid" width = "400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
 - I’m currently learning **Dart & Flutter**
 
